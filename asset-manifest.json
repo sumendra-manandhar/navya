@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/navya/static/css/main.2065b87e.css",
+    "main.js": "/navya/static/js/main.ef9d2d80.js",
+    "static/media/bg.png": "/navya/static/media/bg.a2e2175550399352e9b2.png",
+    "static/media/logo.png": "/navya/static/media/logo.93d21c2013a10d3385c4.png",
+    "static/media/profile.png": "/navya/static/media/profile.c76452ad98eb40c6155d.png",
+    "index.html": "/navya/index.html",
+    "main.2065b87e.css.map": "/navya/static/css/main.2065b87e.css.map",
+    "main.ef9d2d80.js.map": "/navya/static/js/main.ef9d2d80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2065b87e.css",
+    "static/js/main.ef9d2d80.js"
+  ]
+}
